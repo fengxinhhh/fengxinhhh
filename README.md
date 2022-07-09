@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**My name is fengxin, i come from China, i love coding!
+#### My name is fengxin, i come from China, i love coding!
 
 - 🔭 I’m currently working on BeiJing XiaoMi.
 - 🌱 I’m currently learning JavaScript.
