@@ -15,11 +15,11 @@
   - 毕业后校招加入小米->手机部->可穿戴部，负责小米穿戴App、小米后台管理系统的迭代。
   
 - 相关链接：
-  - **CSDN: https://blog.csdn.net/m0_46995864
-  - **掘金：https://juejin.cn/user/3061476130044487
-  - **GitHub：https://github.com/fengxinhhh
-  - **Email：1244200081@qq.com
-  - **WeChat: FX_0902ovo
+  - CSDN: https://blog.csdn.net/m0_46995864
+  - 掘金：https://juejin.cn/user/3061476130044487
+  - GitHub：https://github.com/fengxinhhh
+  - Email：1244200081@qq.com
+  - WeChat: FX_0902ovo
 
 Bye~~
 
