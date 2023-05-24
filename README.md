@@ -21,6 +21,7 @@
   - GitHub：https://github.com/fengxinhhh
   - Email：1244200081@qq.com
   - WeChat: FX_0902ovo
+  - 公众号：量子前端
 
 Bye~~
 
